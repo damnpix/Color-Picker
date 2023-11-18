@@ -1,4 +1,5 @@
 # Color-Picker
 C# Color Picker
 
-![image](https://github.com/jayhook-dev/Color-Picker/assets/111631956/3b524bcd-8d14-4048-b006-9ec6af4d5bf2)
+![image](https://github.com/jayhook-dev/Color-Picker/assets/111631956/a1d78529-d1c6-42ca-af3b-49e76b4a310e)
+
