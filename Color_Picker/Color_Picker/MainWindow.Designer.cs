@@ -1,4 +1,4 @@
-﻿namespace Color_Picker
+namespace Color_Picker
 {
     partial class MainWindow
     {
@@ -128,7 +128,6 @@
             this.roundedButton1.FlatAppearance.BorderSize = 0;
             this.roundedButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.roundedButton1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.roundedButton1.Image = global::Color_Picker.Properties.Resources.select;
             this.roundedButton1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.roundedButton1.Location = new System.Drawing.Point(4, 65);
             this.roundedButton1.Name = "roundedButton1";
