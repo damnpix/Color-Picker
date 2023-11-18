@@ -1,0 +1,12 @@
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\bin\Debug\Color_Picker.exe.config
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\bin\Debug\Color_Picker.pdb
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.csproj.AssemblyReference.cache
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.csproj.GenerateResource.cache
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.csproj.CoreCompileInputs.cache
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.exe
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.pdb
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.MainWindow.resources
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.Scripts.UI.RoundedLabel.resources
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.SettingsWindow.resources
+C:\Users\KIRILL\Desktop\projects\home\c#\Color_Picker\Color_Picker\obj\Debug\Color_Picker.csproj.CopyComplete
